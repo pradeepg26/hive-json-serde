@@ -1,10 +1,10 @@
 package org.apache.hadoop.hive.contrib.serde2;
 
-import static org.junit.Assert.*;
-
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+
+import static org.junit.Assert.fail;
 
 public class JsonSerdeTest {
 
